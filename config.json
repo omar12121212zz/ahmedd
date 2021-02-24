@@ -1,0 +1,36 @@
+
+
+{
+  "TOKEN": "ODEzOTk0NzgzNzQzNTQxMjgw.YDXZtw.vs2xbgTG7hYLPxgMNdT-Or8jAug",
+  "YOUTUBE_API_KEY": "AIzaSyCBwuIf_kpJnnZH3vOiI6hGgJlSI0Jinbg",
+
+
+  "EMOJI_ARROW": "",
+  "EMOJI_DONE": "",
+  "EMOJI_ERROR": "",
+  "EMOJI_STARTED_PLAYING": "",
+  "EMOJI_LINE":"",
+
+
+  "BOT_ID": "648513581582647325",
+  "BOT_OWNER_ID": "549975026741411865",
+  "SERVER_INVITE": "Developed By Ahmedd",
+
+  "PREFIX": "a",
+  "BOT_PREFIX": "a",
+
+
+  "BOT_STATUS2":"Ahmedd",
+  "BOT_STATUS3": "Ahmedd",
+  
+  "BOT_PRESENCE" : "PLAYING",
+
+  "SOUNDCLOUD_CLIENT_ID": "2t9loNQH90kzJcsFCODdigxfp325aq4z",
+  "MAX_PLAYLIST_SIZE": 900,
+  "PRUNING": true,
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
+
+
+     
